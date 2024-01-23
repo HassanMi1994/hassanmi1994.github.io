@@ -1,3 +1,11 @@
 {
-    "welcome-text":"Welcome to renting-app, keep everything managed!"
+    "welcome-text": "Welcome to renting-app, keep everything managed!",
+    "pageNotFound": "Page Not Found",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "fatherName": "Father Name",
+    "mobile": "Mobile",
+    "refereeName": "Referee Name",
+    "save": "Save",
+    "cancel": "Cancel"
 }
