@@ -7,5 +7,9 @@
     "mobile": "موبایل",
     "refereeName": "نام معرف",
     "save": "ذخیره",
-    "cancel": "لغو"
+    "cancel": "لغو",
+    "app-name": "اجاره ابزار",
+    "customers": "مشتری ها",
+    "new-customer": "مشتری جدید",
+    "manager-customers": "مدیریت مشتریان"
 }

@@ -7,5 +7,9 @@
     "mobile": "Mobile",
     "refereeName": "Referee Name",
     "save": "Save",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "app-name": "Rent Stuff",
+    "customers": "Customers",
+    "new-customer": "New Customer",
+    "manager-customers": "Manage Customers"
 }
