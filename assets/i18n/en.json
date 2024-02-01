@@ -5,11 +5,16 @@
     "lastName": "Last Name",
     "fatherName": "Father Name",
     "mobile": "Mobile",
+    "address": "Address",
     "refereeName": "Referee Name",
     "save": "Save",
     "cancel": "Cancel",
     "app-name": "Rent Stuff",
     "customers": "Customers",
     "new-customer": "New Customer",
-    "manager-customers": "Manage Customers"
+    "stuff": "Stuff",
+    "manager-customers": "Manage Customers",
+    "new-stuff":"New stuff",
+    "name":"Name",
+    "description":"Description"
 }

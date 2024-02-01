@@ -5,11 +5,16 @@
     "lastName": "نام خانوادگی",
     "fatherName": "نام پدر",
     "mobile": "موبایل",
+    "address": "آدرس",
     "refereeName": "نام معرف",
     "save": "ذخیره",
     "cancel": "لغو",
     "app-name": "اجاره ابزار",
     "customers": "مشتری ها",
     "new-customer": "مشتری جدید",
-    "manager-customers": "مدیریت مشتریان"
+    "stuff": "ابزار",
+    "manager-customers": "مدیریت مشتریان",
+    "new-stuff":"افزودن وسیله",
+    "name":"نام",
+    "description":"توضیحات"
 }
