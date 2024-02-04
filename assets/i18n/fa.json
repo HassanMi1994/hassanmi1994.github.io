@@ -14,7 +14,16 @@
     "new-customer": "مشتری جدید",
     "stuff": "ابزار",
     "manager-customers": "مدیریت مشتریان",
-    "new-stuff":"افزودن وسیله",
-    "name":"نام",
-    "description":"توضیحات"
+    "new-stuff": "افزودن وسیله",
+    "name": "نام",
+    "description": "توضیحات",
+    "pricePerDay": "قیمت روزانه",
+    "quantity": "تعداد",
+    "details": "جزئیات",
+    "close": "بستن",
+    "slide-first": "به اپلیکیشن اجاره ساده اما حرفه ای خوش آمدید!",
+    "slide-second": "شما می توانید به راحتی کسب و کار اجاره خود را پیگیری کنید!",
+    "slide-third": "این اپلیکیشن رایگان است!",
+    "contracts": "قراردادها",
+    "contract": "قرارداد"
 }
