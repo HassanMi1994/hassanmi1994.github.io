@@ -4,6 +4,8 @@
     "firstName": "نام",
     "lastName": "نام خانوادگی",
     "fatherName": "نام پدر",
+    "fullName": "نام و نام خانوادگی",
+    "Gender": "جنسیت",
     "mobile": "موبایل",
     "address": "آدرس",
     "refereeName": "نام معرف",
@@ -11,6 +13,7 @@
     "cancel": "لغو",
     "app-name": "اجاره ابزار",
     "customers": "مشتری ها",
+    "customer": "مشتری",
     "new-customer": "مشتری جدید",
     "stuff": "ابزار",
     "manager-customers": "مدیریت مشتریان",
@@ -25,5 +28,7 @@
     "slide-second": "شما می توانید به راحتی کسب و کار اجاره خود را پیگیری کنید!",
     "slide-third": "این اپلیکیشن رایگان است!",
     "contracts": "قراردادها",
-    "contract": "قرارداد"
+    "contract": "قرارداد",
+    "newContract": "قرارداد جدید",
+    "selectStuff": "انتخاب ابزار"
 }
