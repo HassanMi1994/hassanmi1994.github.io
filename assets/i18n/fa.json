@@ -30,5 +30,6 @@
     "contracts": "قراردادها",
     "contract": "قرارداد",
     "newContract": "قرارداد جدید",
-    "selectStuff": "انتخاب ابزار"
+    "selectStuff": "انتخاب ابزار",
+    "addingNewContractItem":"افزودن یک مورد جدید"
 }

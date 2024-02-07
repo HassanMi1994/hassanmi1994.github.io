@@ -23,7 +23,7 @@
     "pricePerDay": "Price Per Day",
     "quantity": "Quantity",
     "details": "Details",
-    "close": "close",
+    "close": "Close",
     "slide-first": "Welcome to the simple but pro rent app!",
     "slide-second": "You can easily track your renting business!",
     "slide-third": "This app is free to use!",
@@ -31,5 +31,8 @@
     "contracts": "Contracts",
     "newContract": "New Contract",
     "stuffTooltip": "You can manage you stuff (things to rent) here!",
-    "selectStuff": "Select Stuff"
+    "selectStuff": "Select Stuff",
+    "addingNewContractItem":"Add New Item",
+    "addAndClose":"Add and Close",
+    "add":"Add Item"
 }
