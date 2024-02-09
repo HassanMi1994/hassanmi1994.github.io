@@ -34,5 +34,7 @@
     "selectStuff": "Select Stuff",
     "addingNewContractItem":"Add New Item",
     "addAndClose":"Add and Close",
-    "add":"Add Item"
+    "add":"Add Item",
+    "contractItems":"Contract Items",
+    "search":"Search"
 }
