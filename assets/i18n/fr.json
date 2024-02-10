@@ -32,7 +32,7 @@
     "newContract": "Nouveau contrat",
     "stuffTooltip": "Vous pouvez gérer vos affaires (choses à louer) ici !",
     "selectStuff": "Sélectionner des éléments",
-    "addingNewContractItem": "Ajoute un nouvel objet",
+    "newContractItem": "Ajoute un nouvel objet",
     "addAndClose": "Ajouter et fermer",
     "add": "Ajouter un item"
 }

@@ -1,5 +1,6 @@
 {
     "welcome-text": "Welcome to renting-app, keep everything managed!",
+    "notFound": "Not Found!",
     "pageNotFound": "Page Not Found",
     "firstName": "First Name",
     "lastName": "Last Name",
@@ -32,7 +33,7 @@
     "newContract": "New Contract",
     "stuffTooltip": "You can manage you stuff (things to rent) here!",
     "selectStuff": "Select Stuff",
-    "addingNewContractItem":"Add New Item",
+    "newContractItem":"Add New Item",
     "addAndClose":"Add and Close",
     "add":"Add Item",
     "contractItems":"Contract Items",

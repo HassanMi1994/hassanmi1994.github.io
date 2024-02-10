@@ -1,5 +1,6 @@
 {
     "welcome-text": "به اپلیکیشن اجاره خوش آمدید، همه چیز را مدیریت کنید!",
+    "notFound": "پیدا نشد",
     "pageNotFound": "صفحه پیدا نشد",
     "firstName": "نام",
     "lastName": "نام خانوادگی",
@@ -31,5 +32,5 @@
     "contract": "قرارداد",
     "newContract": "قرارداد جدید",
     "selectStuff": "انتخاب ابزار",
-    "addingNewContractItem":"افزودن یک مورد جدید"
+    "newContractItem": "افزودن یک مورد جدید"
 }

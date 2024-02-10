@@ -32,7 +32,7 @@
     "newContract": "عقد جديد",
     "stuffTooltip": "يمكنك إدارة الأشياء (الأشياء للإيجار) هنا!",
     "selectStuff": "حدد الاشياء",
-    "addingNewContractItem": "أضف أداة جديدة",
+    "newContractItem": "أضف أداة جديدة",
     "addAndClose": "إضافة وإغلاق",
     "add": "اضافة عنصر"
 }
