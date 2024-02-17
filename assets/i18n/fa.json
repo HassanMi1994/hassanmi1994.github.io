@@ -32,5 +32,6 @@
     "contract": "قرارداد",
     "newContract": "قرارداد جدید",
     "selectStuff": "انتخاب ابزار",
-    "newContractItem": "افزودن یک مورد جدید"
+    "newContractItem": "افزودن یک مورد جدید",
+    "remainingInStock":"باقی مانده در انبار"
 }
