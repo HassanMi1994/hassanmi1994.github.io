@@ -40,12 +40,13 @@
     "contractItems": "Contract Items",
     "search": "Search",
     "id": "ID",
-    "nationalityCode": "National Code",
     "createdAt": "Created At",
     "updatedAt": "Updated At",
     "remainingInStock": "Remaining In Stock",
     "prepayment": "Prepayment",
     "howManyDaysClaim": "How many days want to rent",
     "datetime": "Date and Time",
-    "rentLocation": "Rent Location"
+    "rentLocation": "Rent Location",
+    "totalPrice": "Total Price",
+    "selectStuffToReturn":"Select Stuff To Return"
 }
