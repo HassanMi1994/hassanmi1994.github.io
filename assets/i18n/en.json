@@ -48,5 +48,13 @@
     "datetime": "Date and Time",
     "rentLocation": "Rent Location",
     "totalPrice": "Total Price",
-    "selectStuffToReturn":"Select Stuff To Return"
+    "selectStuffToReturn": "Select Stuff To Return",
+    "setting": "Setting",
+    "hourly": "Hourly",
+    "dailyRoundDown": "Daily Round Down",
+    "dailyRoundUp": "Daily Round Up",
+    "locale": "Locale",
+    "taxPercent": "Tax Percent",
+    "serviceType": "Service Type",
+    "contractNoSeed": "Contract No Seed"
 }
