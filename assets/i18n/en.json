@@ -56,5 +56,6 @@
     "locale": "Locale",
     "taxPercent": "Tax Percent",
     "serviceType": "Service Type",
-    "contractNoSeed": "Contract No Seed"
+    "contractNoSeed": "Contract No Seed",
+    "underDev":"This site is under development! Please wait for final result!!!"
 }
