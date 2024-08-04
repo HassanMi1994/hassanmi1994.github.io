@@ -101,9 +101,15 @@
     },
     "calendarType": "Calendar Type",
     "persian": "Persian",
-    "georgian": "Georgian",
+    "georgian": "Gregorian",
     "contractNo": "Contract No.",
     "new-user": "New User",
     "users": "Users",
-    "create": "Create"
+    "create": "Create",
+    "status":{
+        "closed":"Closed",
+        "readyToClose":"Ready To Close",
+        "open":"Open",
+        "shouldGiveMoney":"Should Give Money"
+    }
 }

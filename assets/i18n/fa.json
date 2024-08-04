@@ -100,10 +100,16 @@
         "1420": "فقط برای کاربر مدیر!"
     },
     "calendarType": "نوع تقویم",
-    "persian": "فارسی",
+    "persian": "خورشیدی",
     "georgian": "میلادی",
     "contractNo": "شماره قرارداد",
     "new-user": "کاربر جدید",
     "users": "کاربران",
-    "create": "ايجاد كردن"
+    "create": "ايجاد كردن",
+    "status":{
+        "closed":"بسته",
+        "readyToClose":"آماده بسته شدن",
+        "open":"باز",
+        "shouldGiveMoney":"بدهکار"
+    }
 }
