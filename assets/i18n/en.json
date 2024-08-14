@@ -13,7 +13,7 @@
     "refereeName": "Referee Name",
     "save": "Save",
     "cancel": "Cancel",
-    "app-name": "Rent | Sell app",
+    "app-name": "Rent App",
     "customers": "Customers",
     "new-customer": "New Customer",
     "customer": "Customer",
@@ -106,10 +106,37 @@
     "new-user": "New User",
     "users": "Users",
     "create": "Create",
-    "status":{
-        "closed":"Closed",
-        "readyToClose":"Ready To Close",
-        "open":"Open",
-        "shouldGiveMoney":"Should Give Money"
+    "status": {
+        "closed": "Closed",
+        "readyToClose": "Ready To Close",
+        "open": "Open",
+        "shouldGiveMoney": "Should Give Money"
+    },
+    "createdBy": "Created By",
+    "features": "Features",
+    "hiw": {
+        "one": "When to Use RSApp.ir",
+        "two": "If you run a rental business and need a seamless way to manage everything from start to finish, RSApp.ir is the perfect solution for you.",
+        "features": "Features of RSApp.ir",
+        "multLang": "Multi-Language Support",
+        "multLangDes": "RSApp.ir supports multiple languages, with more being added soon.",
+        "respDesign": "Responsive Design",
+        "respDesignDes": "Works flawlessly on mobile, tablet, and PC.",
+        "freeToUse": "Free to Use",
+        "freeToUseDes": "Currently, RSApp.ir is free to use.",
+        "quickSetup": "Quick Setup",
+        "quickSetupDes": "Create your store account and become the admin in less than a minute.",
+        "employeeUsersCreation": "Employee User Creation",
+        "employeeUsersCreationDes": "Admins can create custom user accounts for employees.",
+        "custManagement": "Customer Management",
+        "custManagementDes": "Easily add new customers to rent items to.",
+        "inventoryManagement": "Inventory Management",
+        "inventoryManagementDes": "Create and manage items you want to rent, such as tools, clothes, cars, and more.",
+        "contractManagement": "Contract Management",
+        "contractManagementDes": "Create and track contracts from open to close automatically.",
+        "returnManagement": "Return Management",
+        "returnManagementDes": "Manage the return status of rented items within contract details.",
+        "paymentTracking":"Payment Tracking",
+        "paymentTrackingDes":" Add and track payments for your contracts."
     }
 }
