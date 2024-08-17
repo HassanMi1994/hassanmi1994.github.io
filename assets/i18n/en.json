@@ -93,6 +93,7 @@
     "date": "Date",
     "createdSuccessfuly": "Created Successfuly!",
     "resp": {
+        "0": ":)   (:",
         "200": "Operation done successfuly!",
         "401": "You Are NOT Logged In, Please Sign In First",
         "1001": "Items To Return Are More Than Remaining",
@@ -100,7 +101,7 @@
         "1420": "Only For Admin User!"
     },
     "calendarType": "Calendar Type",
-    "persian": "Persian",
+    "persian": "Sun Calendar",
     "georgian": "Gregorian",
     "contractNo": "Contract No.",
     "new-user": "New User",
@@ -136,7 +137,13 @@
         "contractManagementDes": "Create and track contracts from open to close automatically.",
         "returnManagement": "Return Management",
         "returnManagementDes": "Manage the return status of rented items within contract details.",
-        "paymentTracking":"Payment Tracking",
-        "paymentTrackingDes":" Add and track payments for your contracts."
+        "paymentTracking": "Payment Tracking",
+        "paymentTrackingDes": " Add and track payments for your contracts."
+    },
+    "validation": {
+        "email": "Enter valid email",
+        "notEmpty":"Enter value",
+        "atLeast6":"Minimum length 6",
+        "mobile":"Min: 11 - Max: 15"
     }
 }
