@@ -142,8 +142,22 @@
     },
     "validation": {
         "email": "Enter valid email",
-        "notEmpty":"Enter value",
-        "atLeast6":"Minimum length 6",
-        "mobile":"Min: 11 - Max: 15"
+        "notEmpty": "Enter value",
+        "atLeast6": "Minimum length 6",
+        "mobile": "Min: 11 - Max: 15"
+    },
+    "aboutUs": "About Us",
+    "about": {
+        "title": "Welcome to RSApp.ir!",
+        "subtitle": "Simplifying Rental Business Management",
+        "missionTitle": "Our Mission",
+        "missionText": "At RSApp.ir, we aim to streamline and simplify the management of rental businesses. Our platform offers a comprehensive suite of tools designed to make your rental operations more efficient and effective.",
+        "thankYouTitle": "Thank You",
+        "thankYouText": "We would like to extend our heartfelt gratitude to the technologies and platforms that made RSApp.ir possible:",
+        "microsoft": "Microsoft .NET Framework: For providing a robust and scalable backend framework.",
+        "angular": "Angular: For offering a powerful and flexible frontend framework.",
+        "github": "GitHub: For enabling seamless version control and collaboration.",
+        "bootstrap": "Bootstrap: For helping us create a responsive and visually appealing design.",
+        "explore": "Explore our platform and see how RSApp.ir can transform your rental business management!"
     }
 }
