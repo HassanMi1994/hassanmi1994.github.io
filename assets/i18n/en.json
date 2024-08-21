@@ -159,5 +159,12 @@
         "github": "GitHub: For enabling seamless version control and collaboration.",
         "bootstrap": "Bootstrap: For helping us create a responsive and visually appealing design.",
         "explore": "Explore our platform and see how RSApp.ir can transform your rental business management!"
+    },
+    "changePassword": {
+        "changePassword":"Change Password",
+        "oldPassword": "Old Password",
+        "newPassword": "New Password",
+        "confirmNewPassword": "Confirm New Password",
+        "change": "Change"
     }
 }
