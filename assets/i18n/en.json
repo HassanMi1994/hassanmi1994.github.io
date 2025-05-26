@@ -1,5 +1,5 @@
 {
-    "welcome-text": "Welcome to renting-app, keep everything managed!",
+    "welcome-text": "Welcome to Renting-Selling-app, keep everything managed!",
     "notFound": "Not Found!",
     "pageNotFound": "Page Not Found",
     "firstName": "First Name",
@@ -26,9 +26,9 @@
     "quantity": "Quantity",
     "details": "Details",
     "close": "Close",
-    "slide-first": "Welcome to the simple but pro rent app!",
-    "slide-second": "You can easily track your renting business!",
-    "slide-third": "This app is free to use!",
+    "slide-first": "Welcome to the simple but pro Rent and Sell Managment app!",
+    "slide-second": "You can easily track your Renting and Selling business!",
+    "slide-third": "This app is free to use !!!",
     "contract": "Contract",
     "contracts": "Contracts",
     "newContract": "New Contract",
@@ -118,7 +118,7 @@
     "features": "Features",
     "hiw": {
         "one": "When to Use RSApp.ir",
-        "two": "If you run a rental business and need a seamless way to manage everything from start to finish, RSApp.ir is the perfect solution for you.",
+        "two": "If you run a rental or sell business and need a seamless way to manage everything from start to finish, RSApp.ir is the perfect solution for you.",
         "features": "Features of RSApp.ir",
         "multLang": "Multi-Language Support",
         "multLangDes": "RSApp.ir supports multiple languages, with more being added soon.",
@@ -146,14 +146,14 @@
         "notEmpty": "Enter value",
         "atLeast6": "Minimum length 6",
         "mobile": "Min: 11 - Max: 15",
-        "greaterThanZero":"Should be Greater than 0"
+        "greaterThanZero": "Should be Greater than 0"
     },
     "aboutUs": "About Us",
     "about": {
         "title": "Welcome to RSApp.ir!",
-        "subtitle": "Simplifying Rental Business Management",
+        "subtitle": "Simplifying Rent and Sell Business Management",
         "missionTitle": "Our Mission",
-        "missionText": "At RSApp.ir, we aim to streamline and simplify the management of rental businesses. Our platform offers a comprehensive suite of tools designed to make your rental operations more efficient and effective.",
+        "missionText": "At RSApp.ir, we aim to streamline and simplify the management of rent and sell businesses. Our platform offers a comprehensive suite of tools designed to make your rent and sell operations more efficient and effective.",
         "thankYouTitle": "Thank You",
         "thankYouText": "We would like to extend our heartfelt gratitude to the technologies and platforms that made RSApp.ir possible:",
         "microsoft": "Microsoft .NET Framework: For providing a robust and scalable backend framework.",
@@ -163,12 +163,13 @@
         "explore": "Explore our platform and see how RSApp.ir can transform your rental business management!"
     },
     "changePassword": {
-        "changePassword":"Change Password",
+        "changePassword": "Change Password",
         "oldPassword": "Old Password",
         "newPassword": "New Password",
         "confirmNewPassword": "Confirm New Password",
         "change": "Change"
     },
-    "buyPrice":"Buy Price",
-    "sellPrice":"Sell Price"
+    "buyPrice": "Buy Price",
+    "sellPrice": "Sell Price",
+    "home": "Home"
 }
