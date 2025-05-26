@@ -92,6 +92,7 @@
     "needToBeReturned": "Need To Be Returned Before Closing Contract",
     "date": "Date",
     "createdSuccessfuly": "Created Successfuly!",
+    "updatedSuccessfuly": "Updated Successfuly!",
     "resp": {
         "0": ":)   (:",
         "200": "Operation done successfuly!",
@@ -144,7 +145,8 @@
         "email": "Enter valid email",
         "notEmpty": "Enter value",
         "atLeast6": "Minimum length 6",
-        "mobile": "Min: 11 - Max: 15"
+        "mobile": "Min: 11 - Max: 15",
+        "greaterThanZero":"Should be Greater than 0"
     },
     "aboutUs": "About Us",
     "about": {
@@ -166,5 +168,7 @@
         "newPassword": "New Password",
         "confirmNewPassword": "Confirm New Password",
         "change": "Change"
-    }
+    },
+    "buyPrice":"Buy Price",
+    "sellPrice":"Sell Price"
 }
