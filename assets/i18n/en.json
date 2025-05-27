@@ -114,7 +114,7 @@
         "closed": "Closed",
         "readyToClose": "Ready To Close",
         "open": "Open",
-        "shouldGiveMoney": "Should Give Money"
+        "shouldGiveMoney": "Owing"
     },
     "createdBy": "Created By",
     "features": "Features",
@@ -173,5 +173,27 @@
     },
     "buyPrice": "Buy Price",
     "sellPrice": "Sell Price",
-    "home": "Home"
+    "home": "Home",
+    "seo": {
+        "about": {
+            "title": "About Us - RSapp.ir",
+            "description": "Learn more about RSApp, our mission, and our team. | RSapp.ir"
+        },
+        "feature": {
+            "title": "Features - Smart Retail & Rental Management | RSapp.ir",
+            "description": "Discover the powerful features of RSApp for managing retail sales and rentals, contracts, customers, and inventory efficiently."
+        },
+        "welcome": {
+            "title": "Welcome to RSApp - Retail & Rental Management Platform",
+            "description": "Streamline your retail or rental business with RSApp. Create contracts, manage inventory, and grow your business smarter."
+        },
+        "signup": {
+            "title": "Sign Up - Start Managing Sales and Rentals | RSapp.ir",
+            "description": "Create your RSApp account today and simplify your retail and rental operations with powerful tools built for businesses."
+        },
+        "login": {
+            "title": "Login - Access Your Retail & Rental Dashboard | RSapp.ir",
+            "description": "Log in to your RSApp account to manage customers, contracts, inventory, and more – all in one smart platform."
+        }
+    }
 }
