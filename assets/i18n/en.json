@@ -14,7 +14,7 @@
     "refereeName": "Referee Name",
     "save": "Save",
     "cancel": "Cancel",
-    "app-name": "Rent App",
+    "app-name": "Rent | Sell Management App",
     "customers": "Customers",
     "new-customer": "New Customer",
     "customer": "Customer",
@@ -111,6 +111,7 @@
     "users": "Users",
     "create": "Create",
     "status": {
+        "status": "Status",
         "closed": "Closed",
         "readyToClose": "Ready To Close",
         "open": "Open",
@@ -141,7 +142,11 @@
         "returnManagement": "Return Management",
         "returnManagementDes": "Manage the return status of rented items within contract details.",
         "paymentTracking": "Payment Tracking",
-        "paymentTrackingDes": " Add and track payments for your contracts."
+        "paymentTrackingDes": " Add and track payments for your contracts.",
+        "reporting": "Comprehensive Reporting",
+        "reportingDes": "Generate detailed reports on sales, rentals, payments, and profits to gain insights into your business performance.",
+        "realTimeStats": "Real-Time Statistics",
+        "realTimeStatsDes": "View up-to-date metrics and summaries on contracts, inventory status, and revenue directly from your dashboard."
     },
     "validation": {
         "email": "Enter valid email",
@@ -195,5 +200,11 @@
             "title": "Login - Access Your Retail & Rental Dashboard | RSapp.ir",
             "description": "Log in to your RSApp account to manage customers, contracts, inventory, and more – all in one smart platform."
         }
-    }
+    },
+    "report": "Report",
+    "apply": "Apply",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "profit": "Profit",
+    "row": "#"
 }
