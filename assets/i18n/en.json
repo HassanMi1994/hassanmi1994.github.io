@@ -27,9 +27,9 @@
     "quantity": "Quantity",
     "details": "Details",
     "close": "Close",
-    "slide-first": "Welcome to the simple but pro Rent and Sell Managment app!",
-    "slide-second": "You can easily track your Renting and Selling business!",
-    "slide-third": "This app is free to use !!!",
+    "slide-first": "Welcome to the simple yet professional Rent & Sell Management app!",
+    "slide-second": "Effortlessly track and manage your rental and sales business in one place.",
+    "slide-third": "Completely free to use—get started now!",
     "contract": "Contract",
     "contracts": "Contracts",
     "newContract": "New Contract",
@@ -121,32 +121,32 @@
     "features": "Features",
     "hiw": {
         "one": "When to Use RSApp.ir",
-        "two": "If you run a rental or sell business and need a seamless way to manage everything from start to finish, RSApp.ir is the perfect solution for you.",
+        "two": "If you run a sales or rental business and need an all-in-one solution to manage everything from start to finish, RSApp.ir is the ideal choice for you.",
         "features": "Features of RSApp.ir",
-        "multLang": "Multi-Language Support",
-        "multLangDes": "RSApp.ir supports multiple languages, with more being added soon.",
+        "multLang": "Multilingual Support",
+        "multLangDes": "RSApp.ir currently supports English and Farsi, with more languages coming soon.",
         "respDesign": "Responsive Design",
-        "respDesignDes": "Works flawlessly on mobile, tablet, and PC.",
-        "freeToUse": "Free to Use",
-        "freeToUseDes": "Currently, RSApp.ir is free to use.",
+        "respDesignDes": "Works flawlessly on mobile, tablet, and desktop devices.",
+        "freeToUse": "Completely Free",
+        "freeToUseDes": "All RSApp.ir features are currently available completely free of charge.",
         "quickSetup": "Quick Setup",
-        "quickSetupDes": "Create your store account and become the admin in less than a minute.",
-        "employeeUsersCreation": "Employee User Creation",
-        "employeeUsersCreationDes": "Admins can create custom user accounts for employees.",
+        "quickSetupDes": "Create your store account and become the admin in under one minute.",
+        "employeeUsersCreation": "Employee Account Creation",
+        "employeeUsersCreationDes": "Admins can create custom user accounts for employees with specific permissions.",
         "custManagement": "Customer Management",
-        "custManagementDes": "Easily add new customers to rent items to.",
+        "custManagementDes": "Easily add new customers for selling or renting items.",
         "inventoryManagement": "Inventory Management",
-        "inventoryManagementDes": "Create and manage items you want to rent, such as tools, clothes, cars, and more.",
+        "inventoryManagementDes": "Define and manage items—tools, clothing, vehicles, and more—and keep track of stock levels.",
         "contractManagement": "Contract Management",
-        "contractManagementDes": "Create and track contracts from open to close automatically.",
+        "contractManagementDes": "Automatically create and track contracts from open to close.",
         "returnManagement": "Return Management",
-        "returnManagementDes": "Manage the return status of rented items within contract details.",
+        "returnManagementDes": "Manage the return status of rented items directly within contract details.",
         "paymentTracking": "Payment Tracking",
-        "paymentTrackingDes": " Add and track payments for your contracts.",
+        "paymentTrackingDes": "Record and track payments for all contracts.",
         "reporting": "Comprehensive Reporting",
-        "reportingDes": "Generate detailed reports on sales, rentals, payments, and profits to gain insights into your business performance.",
-        "realTimeStats": "Real-Time Statistics",
-        "realTimeStatsDes": "View up-to-date metrics and summaries on contracts, inventory status, and revenue directly from your dashboard."
+        "reportingDes": "Generate detailed reports on sales, rentals, payments, and profits to gain clear insights into your business performance.",
+        "realTimeStats": "Real-Time Metrics",
+        "realTimeStatsDes": "View up-to-date metrics on contracts, inventory status, and revenue directly from your dashboard."
     },
     "validation": {
         "email": "Enter valid email",
@@ -181,24 +181,24 @@
     "home": "Home",
     "seo": {
         "about": {
-            "title": "About Us - RSapp.ir",
-            "description": "Learn more about RSApp, our mission, and our team. | RSapp.ir"
+            "title": "About Us – RSApp.ir | Free Sales & Rental Management Software",
+            "description": "Learn how RSApp.ir empowers small businesses with a Free Plan to manage sales, rentals, contracts, inventory and profit reporting—completely free and multilingual."
         },
         "feature": {
-            "title": "Features - Smart Retail & Rental Management | RSapp.ir",
-            "description": "Discover the powerful features of RSApp for managing retail sales and rentals, contracts, customers, and inventory efficiently."
+            "title": "Features – Free Sales & Rental Platform | RSApp.ir",
+            "description": "Discover RSApp.ir’s Free Plan features: customer CRM, contract automation, inventory control and real-time profit analytics—all at no cost."
         },
         "welcome": {
-            "title": "Welcome to RSApp - Retail & Rental Management Platform",
-            "description": "Streamline your retail or rental business with RSApp. Create contracts, manage inventory, and grow your business smarter."
+            "title": "Welcome to RSApp.ir | Free Sales & Rental Management Platform",
+            "description": "Get started with RSApp.ir’s Free Plan—create contracts, track payments, manage inventory, and view profit reports on a free, multilingual dashboard."
         },
         "signup": {
-            "title": "Sign Up - Start Managing Sales and Rentals | RSapp.ir",
-            "description": "Create your RSApp account today and simplify your retail and rental operations with powerful tools built for businesses."
+            "title": "Sign Up – Start Your Free Plan on RSApp.ir",
+            "description": "Join RSApp.ir’s Free Plan today and simplify your sales and rental workflows with powerful CRM, contract, inventory, and reporting tools."
         },
         "login": {
-            "title": "Login - Access Your Retail & Rental Dashboard | RSapp.ir",
-            "description": "Log in to your RSApp account to manage customers, contracts, inventory, and more – all in one smart platform."
+            "title": "Login – RSApp.ir Free Dashboard | Sales & Rental Management",
+            "description": "Log in to your RSApp.ir Free Plan dashboard—manage customers, contracts, inventory, and profit insights in one unified platform."
         }
     },
     "report": "Report",
