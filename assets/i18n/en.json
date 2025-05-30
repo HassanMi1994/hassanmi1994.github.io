@@ -153,7 +153,8 @@
         "notEmpty": "Enter value",
         "atLeast6": "Minimum length 6",
         "mobile": "Min: 11 - Max: 15",
-        "greaterThanZero": "Should be Greater than 0"
+        "greaterThanZero": "Should be Greater than 0",
+        "quantityMoreThanAvailable": "Quantity More Than Available"
     },
     "aboutUs": "About Us",
     "about": {
@@ -205,6 +206,11 @@
     "apply": "Apply",
     "startDate": "Start Date",
     "endDate": "End Date",
-    "profit": "Profit",
-    "row": "#"
+    "sellProfit": "Sell Profit",
+    "paidAmount": "Paid Amount",
+    "row": "#",
+    "new":"New",
+    "inRent":"In Rent",
+    "soldQuantity":"Sell Quantity",
+    "remaining":"Remaining"
 }

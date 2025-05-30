@@ -151,7 +151,8 @@
         "notEmpty": "لطفا مقدار وارد کنید",
         "atLeast6": "حداقل ۶ حرف",
         "mobile": "حداقل: 11 - حداکثر: 15",
-        "greaterThanZero": "باید بزرگتر از صفر باشد"
+        "greaterThanZero": "باید بزرگتر از صفر باشد",
+        "quantityMoreThanAvailable": "بیشتر از باقیمانده  "
     },
     "aboutUs": "درباره ما",
     "about": {
@@ -203,6 +204,11 @@
     "apply": "اعمال",
     "startDate": "تاریخ شروع",
     "endDate": "تاریخ پایان",
-    "profit": "سود",
-    "row": "#"
+    "sellProfit": "سود فروش",
+    "paidAmount": "مبلغ پرداخت شده",
+    "row": "#",
+    "new": "جدید",
+    "inRent": "در اجاره",
+    "soldQuantity": "فروخته شده",
+    "remaining": "باقی‌مانده"
 }
