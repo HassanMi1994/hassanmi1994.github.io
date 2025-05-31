@@ -182,15 +182,15 @@
     "home": "Home",
     "seo": {
         "about": {
-            "title": "About Us – RSApp.ir | Free Sales & Rental Management Software",
+            "title": "About Us – RSApp.ir | Free Rental & Sales Management Software",
             "description": "Learn how RSApp.ir empowers small businesses with a Free Plan to manage sales, rentals, contracts, inventory and profit reporting—completely free and multilingual."
         },
         "feature": {
-            "title": "Features – Free Sales & Rental Platform | RSApp.ir",
+            "title": "Features – Free Rental & Sales Platform | RSApp.ir",
             "description": "Discover RSApp.ir’s Free Plan features: customer CRM, contract automation, inventory control and real-time profit analytics—all at no cost."
         },
         "welcome": {
-            "title": "Welcome to RSApp.ir | Free Sales & Rental Management Platform",
+            "title": "Welcome to RSApp.ir | Free Rental & Sales Management Platform",
             "description": "Get started with RSApp.ir’s Free Plan—create contracts, track payments, manage inventory, and view profit reports on a free, multilingual dashboard."
         },
         "signup": {
@@ -198,7 +198,7 @@
             "description": "Join RSApp.ir’s Free Plan today and simplify your sales and rental workflows with powerful CRM, contract, inventory, and reporting tools."
         },
         "login": {
-            "title": "Login – RSApp.ir Free Dashboard | Sales & Rental Management",
+            "title": "Login – RSApp.ir Free Dashboard | Rental & Sales Management",
             "description": "Log in to your RSApp.ir Free Plan dashboard—manage customers, contracts, inventory, and profit insights in one unified platform."
         }
     },
@@ -209,8 +209,9 @@
     "sellProfit": "Sell Profit",
     "paidAmount": "Paid Amount",
     "row": "#",
-    "new":"New",
-    "inRent":"In Rent",
-    "soldQuantity":"Sell Quantity",
-    "remaining":"Remaining"
+    "new": "New",
+    "inRent": "In Rent",
+    "soldQuantity": "Sell Quantity",
+    "remaining": "Remaining",
+    "actions":"Actions"
 }
