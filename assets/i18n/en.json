@@ -211,7 +211,9 @@
     "row": "#",
     "new": "New",
     "inRent": "In Rent",
-    "soldQuantity": "Sell Quantity",
+    "soldQuantity": "Sold Quantity",
     "remaining": "Remaining",
-    "actions":"Actions"
+    "actions": "Actions",
+    "stores": "Stores",
+    "verify-email": "Your email has been verified"
 }

@@ -211,6 +211,7 @@
     "inRent": "در اجاره",
     "soldQuantity": "فروخته شده",
     "remaining": "باقی‌مانده",
-    "actions":"عملیات"
-    
+    "actions": "عملیات",
+    "stores": "فروشگاه‌ها",
+    "verify-email": "ایمیل شما تایید شد."
 }
